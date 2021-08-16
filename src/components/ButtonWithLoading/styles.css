@@ -1,0 +1,12 @@
+.form__button {
+  border: none;
+  border-radius: 8px;
+  background-color: var(--malachite);
+  cursor: pointer;
+  color: var(--white);
+  font-weight: 600;
+  height: 2.75rem;
+  justify-self: center;
+  outline: none;
+  margin: 1rem 0;
+}
